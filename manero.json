@@ -23,7 +23,7 @@
       "categories": [
         "Men"
       ],
-      "rating": "3",
+      "rating": "5",
       "images": [
         "https://george-fx.github.io/manero-api/resources/products/01.png",
         "https://george-fx.github.io/manero-api/resources/products/01.png",
@@ -109,20 +109,10 @@
         "Sport"
       ],
       "rating": "5",
-      "image": "https://dl.dropbox.com/s/hk1g6hu1aez9lfe/02.png?dl=0",
       "images": [
-        {
-          "id": "1",
-          "image": "https://dl.dropbox.com/s/hk1g6hu1aez9lfe/02.png?dl=0"
-        },
-        {
-          "id": "2",
-          "image": "https://dl.dropbox.com/s/hk1g6hu1aez9lfe/02.png?dl=0"
-        },
-        {
-          "id": "3",
-          "image": "https://dl.dropbox.com/s/hk1g6hu1aez9lfe/02.png?dl=0"
-        }
+        "https://george-fx.github.io/manero-api/resources/products/02.png",
+        "https://george-fx.github.io/manero-api/resources/products/02.png",
+        "https://george-fx.github.io/manero-api/resources/products/02.png"
       ],
       "is_bestseller": false,
       "is_sale": true,
@@ -197,18 +187,9 @@
       "rating": "4",
       "image": "https://dl.dropbox.com/s/252twzwl5hv96mi/03.png?dl=0",
       "images": [
-        {
-          "id": "1",
-          "image": "https://dl.dropbox.com/s/252twzwl5hv96mi/03.png?dl=0"
-        },
-        {
-          "id": "2",
-          "image": "https://dl.dropbox.com/s/252twzwl5hv96mi/03.png?dl=0"
-        },
-        {
-          "id": "3",
-          "image": "https://dl.dropbox.com/s/252twzwl5hv96mi/03.png?dl=0"
-        }
+        "https://george-fx.github.io/manero-api/resources/products/03.png",
+        "https://george-fx.github.io/manero-api/resources/products/03.png",
+        "https://george-fx.github.io/manero-api/resources/products/03.png"
       ],
       "is_bestseller": true,
       "is_sale": true,
@@ -298,18 +279,9 @@
       "rating": "3",
       "image": "https://dl.dropbox.com/s/1jv4suu79ax10bs/04.png?dl=0",
       "images": [
-        {
-          "id": "1",
-          "image": "https://dl.dropbox.com/s/1jv4suu79ax10bs/04.png?dl=0"
-        },
-        {
-          "id": "2",
-          "image": "https://dl.dropbox.com/s/1jv4suu79ax10bs/04.png?dl=0"
-        },
-        {
-          "id": "3",
-          "image": "https://dl.dropbox.com/s/1jv4suu79ax10bs/04.png?dl=0"
-        }
+        "https://george-fx.github.io/manero-api/resources/products/04.png",
+        "https://george-fx.github.io/manero-api/resources/products/04.png",
+        "https://george-fx.github.io/manero-api/resources/products/04.png"
       ],
       "is_bestseller": false,
       "is_sale": false,
@@ -408,18 +380,9 @@
       "rating": "5",
       "image": "https://dl.dropbox.com/s/r4lhjbptsgr14jr/05.png?dl=0",
       "images": [
-        {
-          "id": "1",
-          "image": "https://dl.dropbox.com/s/r4lhjbptsgr14jr/05.png?dl=0"
-        },
-        {
-          "id": "2",
-          "image": "https://dl.dropbox.com/s/r4lhjbptsgr14jr/05.png?dl=0"
-        },
-        {
-          "id": "3",
-          "image": "https://dl.dropbox.com/s/r4lhjbptsgr14jr/05.png?dl=0"
-        }
+        "https://george-fx.github.io/manero-api/resources/products/05.png",
+        "https://george-fx.github.io/manero-api/resources/products/05.png",
+        "https://george-fx.github.io/manero-api/resources/products/05.png"
       ],
       "is_bestseller": true,
       "is_sale": true,
@@ -485,18 +448,9 @@
       "rating": "3",
       "image": "https://dl.dropbox.com/s/w4p70q0h4780ljl/06.png?dl=0",
       "images": [
-        {
-          "id": "1",
-          "image": "https://dl.dropbox.com/s/w4p70q0h4780ljl/06.png?dl=0"
-        },
-        {
-          "id": "2",
-          "image": "https://dl.dropbox.com/s/w4p70q0h4780ljl/06.png?dl=0"
-        },
-        {
-          "id": "3",
-          "image": "https://dl.dropbox.com/s/w4p70q0h4780ljl/06.png?dl=0"
-        }
+        "https://george-fx.github.io/manero-api/resources/products/06.png",
+        "https://george-fx.github.io/manero-api/resources/products/06.png",
+        "https://george-fx.github.io/manero-api/resources/products/06.png"
       ],
       "is_bestseller": false,
       "is_sale": false,
@@ -578,18 +532,9 @@
       "rating": "4",
       "image": "https://dl.dropbox.com/s/pa7egeq106uku51/07.png?dl=0",
       "images": [
-        {
-          "id": "1",
-          "image": "https://dl.dropbox.com/s/pa7egeq106uku51/07.png?dl=0"
-        },
-        {
-          "id": "2",
-          "image": "https://dl.dropbox.com/s/pa7egeq106uku51/07.png?dl=0"
-        },
-        {
-          "id": "3",
-          "image": "https://dl.dropbox.com/s/pa7egeq106uku51/07.png?dl=0"
-        }
+        "https://george-fx.github.io/manero-api/resources/products/07.png",
+        "https://george-fx.github.io/manero-api/resources/products/07.png",
+        "https://george-fx.github.io/manero-api/resources/products/07.png"
       ],
       "is_bestseller": true,
       "is_sale": false,
@@ -663,9 +608,9 @@
       "rating": "5",
       "image": "https://dl.dropbox.com/s/vvzqi4ufun5ino1/08.png?dl=0",
       "images": [
-        "https://dl.dropbox.com/s/vvzqi4ufun5ino1/08.png?dl=0",
-        "https://dl.dropbox.com/s/vvzqi4ufun5ino1/08.png?dl=0",
-        "https://dl.dropbox.com/s/vvzqi4ufun5ino1/08.png?dl=0"
+        "https://george-fx.github.io/manero-api/resources/products/08.png",
+        "https://george-fx.github.io/manero-api/resources/products/08.png",
+        "https://george-fx.github.io/manero-api/resources/products/08.png"
       ],
       "is_bestseller": false,
       "is_sale": false,
