@@ -714,5 +714,19 @@
         }
       ]
     }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "image": "https://dl.dropbox.com/s/1x1q2q2q2q2q2q2/banner-1.jpg?dl=0",
+      "title": "Welcome to Manero!",
+      "subtitle": "50% Off"
+    },
+    {
+      "id": 2,
+      "image": "https://dl.dropbox.com/s/1x1q2q2q2q2q2q2/banner-1.jpg?dl=0",
+      "title": "Winter Sale",
+      "subtitle": "Up to 50% Off"
+    }
   ]
 }
