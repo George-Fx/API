@@ -721,12 +721,6 @@
       "image": "https://dl.dropbox.com/s/zjx0i1nkw5azk3a/01.png?dl=0",
       "title": "Welcome to Manero!",
       "subtitle": "50% Off"
-    },
-    {
-      "id": 2,
-      "image": "George-Fx/manero-api/resources/banners/02.png",
-      "title": "Winter Sale",
-      "subtitle": "Up to 50% Off"
     }
   ]
 }
