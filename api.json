@@ -25,9 +25,9 @@
       ],
       "rating": "5",
       "images": [
-        "https://george-fx.github.io/manero-api/resources/products/01.png",
-        "https://george-fx.github.io/manero-api/resources/products/01.png",
-        "https://george-fx.github.io/manero-api/resources/products/01.png"
+        "https://george-fx.github.io/manero/resources/products/01.png",
+        "https://george-fx.github.io/manero/resources/products/01.png",
+        "https://george-fx.github.io/manero/resources/products/01.png"
 
       ],
       "is_bestseller": true,
@@ -654,19 +654,19 @@
   "banners": [
     {
       "id": "1",
-      "image": "https://george-fx.github.io/manero-api/resources/banners/01.png",
+      "image": "https://george-fx.github.io/manero/resources/banners/01.png",
       "title": "Welcome to Manero!",
       "subtitle": "50% Off"
     },
     {
       "id": "2",
-      "image": "https://george-fx.github.io/manero-api/resources/banners/02.png",
+      "image": "https://george-fx.github.io/manero/resources/banners/02.png",
       "title": "Take 50% off now!",
       "subtitle": "shop now"
     },
     {
       "id": "3",
-      "image": "https://george-fx.github.io/manero-api/resources/banners/03.png",
+      "image": "https://george-fx.github.io/manero/resources/banners/03.png",
       "title": "Take 50% off!",
       "subtitle": "shop now"
     }
