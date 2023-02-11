@@ -653,10 +653,22 @@
   ],
   "banners": [
     {
-      "id": 1,
-      "image": "https://dl.dropbox.com/s/zjx0i1nkw5azk3a/01.png?dl=0",
+      "id": "1",
+      "image": "https://george-fx.github.io/manero-api/resources/banners/01.png",
       "title": "Welcome to Manero!",
       "subtitle": "50% Off"
+    },
+    {
+      "id": "2",
+      "image": "https://george-fx.github.io/manero-api/resources/banners/02.png",
+      "title": "Take 50% off now!",
+      "subtitle": "shop now"
+    },
+    {
+      "id": "3",
+      "image": "https://george-fx.github.io/manero-api/resources/banners/03.png",
+      "title": "Take 50% off!",
+      "subtitle": "shop now"
     }
   ]
 }
