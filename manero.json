@@ -24,20 +24,11 @@
         "Men"
       ],
       "rating": "3",
-      "image": "https://george-fx.github.io/manero-api/resources/products/01.png",
       "images": [
-        {
-          "id": "1",
-          "image": "https://dl.dropbox.com/s/1mseflylnbx2oim/01.png?dl=0"
-        },
-        {
-          "id": "2",
-          "image": "https://dl.dropbox.com/s/1mseflylnbx2oim/01.png?dl=0"
-        },
-        {
-          "id": "3",
-          "image": "https://dl.dropbox.com/s/1mseflylnbx2oim/01.png?dl=0"
-        }
+        "https://george-fx.github.io/manero-api/resources/products/01.png",
+        "https://george-fx.github.io/manero-api/resources/products/01.png",
+        "https://george-fx.github.io/manero-api/resources/products/01.png"
+
       ],
       "is_bestseller": true,
       "is_sale": false,
