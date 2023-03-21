@@ -670,5 +670,25 @@
       "title": "Take 50% off!",
       "subtitle": "shop now"
     }
+  ],
+  "carousel": [
+    {
+      "id": "1",
+      "titleLine1": "Welcome to Unimor!",
+      "titleLine2": "50% off",
+      "image": "https://george-fx.github.io/unimor/resources/banners/01.jpg"
+    },
+    {
+      "id": "1",
+      "titleLine1": "Welcome to Unimor!",
+      "titleLine2": "50% off",
+      "image": "https://george-fx.github.io/unimor/resources/banners/02.jpg"
+    },
+    {
+      "id": "1",
+      "titleLine1": "Welcome to Unimor!",
+      "titleLine2": "50% off",
+      "image": "https://george-fx.github.io/unimor/resources/banners/03.jpg"
+    }
   ]
 }
